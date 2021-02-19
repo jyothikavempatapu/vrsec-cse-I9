@@ -1,12 +1,14 @@
 #include<stdio.h>
 void main()
 {
-int x,y;
+int x,y,z;
 printf("enter x , y values");
 scanf("%d%d",&x,&y);
 if(x>y)
 {
 printf("x is greater ");
+z=x-y;
+printf("c:");
 }
 else
 {
