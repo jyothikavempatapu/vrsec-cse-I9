@@ -8,7 +8,8 @@ if(x>y)
 {
 printf("x is greater ");
 z=x-y;
-printf("c:");
+printf("z:");
+printf("z is the difference of 2 nums");
 }
 else
 {
