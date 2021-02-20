@@ -16,5 +16,6 @@ else
 printf("y is greater");
 }
 printf("greatest of 2 num is written");
+printf("hence created");
 getch();
 }
